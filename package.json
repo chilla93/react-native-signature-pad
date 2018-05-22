@@ -20,6 +20,9 @@
     "signaturepad",
     "canvas"
   ],
+  "dependencies": {
+    "prop-types": "~15.6.1"
+  },
   "author": "Kevin Stumpf",
   "license": "MIT",
   "bugs": {
